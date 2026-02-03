@@ -1,0 +1,3 @@
+This application does not collect, store, or share personal user data.
+Any authentication tokens are used only during runtime and are not persisted.
+This app is intended solely for demonstration and evaluation purposes.
